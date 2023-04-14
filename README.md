@@ -1,8 +1,6 @@
 ## Description
 
-#### This site simulates sites that specialize in booking airline tickets and booking luxury hotels in which there is a place where the tourist would like to go. This site was made using React.Js.
-
-## Cloning and Running the Application in local
+#### A simple and fully responsive React application that allows customers to know the planes that want to take off in the near period and to know the places in which they may live during their travel period, such as hotels and villages. Hotels and planes are scanned in a beautiful and comfortable way for the user
 
 ### Clone the project into local
 
